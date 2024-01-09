@@ -1,2 +1,2 @@
 # Portfolio
-  ## 1. SDSS Stellar Classification
+  ## SDSS Stellar Classification
