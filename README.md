@@ -1,3 +1,3 @@
 # Portfolio
 
-##SDSS Stellar Classification
+## SDSS Stellar Classification
